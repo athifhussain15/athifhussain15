@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Athif Hussain S</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **React js,React native**
+- 🌱 I’m currently learning **Java,Python,JavaScript,SQL,Springboot**
 
 - 📫 How to reach me **mdathifhussain@gmail.com**
 
